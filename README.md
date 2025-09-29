@@ -4,14 +4,14 @@ This project provides a complete, end-to-end implementation of an AI-powered rai
 
 ## **📖 Table of Contents**
 
-* [The Problem](https://www.google.com/search?q=%23-the-problem)  
-* [The Dual-AI Solution](https://www.google.com/search?q=%23-the-dual-ai-solution)  
-* [Project Structure](https://www.google.com/search?q=%23-project-structure)  
-* [Technology Stack](https://www.google.com/search?q=%23-technology-stack)  
-* [Getting Started](https://www.google.com/search?q=%23-getting-started)  
-* [How to Use the Project](https://www.google.com/search?q=%23-how-to-use-the-project)  
-* [Understanding the Simulation](https://www.google.com/search?q=%23-understanding-the-simulation)  
-* [Future Work](https://www.google.com/search?q=%23-future-work)
+* [The Problem]  
+* [The Dual-AI Solution]  
+* [Project Structure] 
+* [Technology Stack]
+* [Getting Started]  
+* [How to Use the Project]
+* [Understanding the Simulation]
+* [Future Work]
 
 ## **🎯 The Problem**
 
