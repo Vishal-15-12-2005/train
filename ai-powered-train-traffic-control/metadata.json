@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Train Traffic Control",
+  "description": "An intelligent Decision Support System (DSS) for railway traffic controllers. It uses AI to provide real-time, optimal scheduling recommendations to maximize network throughput, improve punctuality, and enhance safety.",
+  "requestFramePermissions": []
+}

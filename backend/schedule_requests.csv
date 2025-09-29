@@ -1,0 +1,51 @@
+train_no,train_name,train_type,start_station,end_station,priority
+12476,Bharatpur Passenger/Local,Passenger/Local,BVI,NDLS,4
+29082,Jaunpur Express,Superfast Express,KOTA,BRC,2
+15067,Bulandshahr Express,Superfast Express,BVI,ST,2
+16571,Ichalkaranji Rajdhani/Shatabdi,Rajdhani/Shatabdi,RTM,BVI,1
+15408,Gandhidham Mail/Express,Mail/Express,NDLS,BRC,3
+12774,Ratlam Mail/Express,Mail/Express,ST,NDLS,3
+19602,North Dumdum Express,Superfast Express,BVI,ST,2
+15099,Kollam Rajdhani/Shatabdi,Rajdhani/Shatabdi,NDLS,RTM,1
+24973,Guna Mail/Express,Mail/Express,BRC,RTM,3
+23200,Mangalore Express,Superfast Express,MMCT,MTJ,2
+25905,Amravati Express,Superfast Express,NDLS,BVI,2
+15177,Begusarai Express,Superfast Express,ST,RTM,2
+20362,Ambattur Mail/Express,Mail/Express,BVI,MMCT,3
+5197-F,Container Goods 959,Goods Freight,BVI,RTM,5
+22956,Hapur Mail/Express,Mail/Express,RTM,BVI,3
+9931-F,Container Goods 173,Goods Freight,NDLS,MTJ,5
+26569,Panvel Mail/Express,Mail/Express,KOTA,MMCT,3
+25493,Chandrapur Passenger/Local,Passenger/Local,MMCT,BVI,4
+16810,Jehanabad Express,Superfast Express,RTM,BRC,2
+28233,Bally Express,Superfast Express,MMCT,MTJ,2
+14407,Bhimavaram Passenger/Local,Passenger/Local,BVI,RTM,4
+9023-F,Container Goods 737,Goods Freight,NDLS,ST,5
+26193,Amroha Express,Superfast Express,KOTA,MTJ,2
+13188,Asansol Express,Superfast Express,BRC,MMCT,2
+11071,Gurgaon Mail/Express,Mail/Express,BVI,RTM,3
+20565,Ongole Mail/Express,Mail/Express,MTJ,BRC,3
+9689-F,Container Goods 173,Goods Freight,KOTA,MTJ,5
+11019,Darbhanga Rajdhani/Shatabdi,Rajdhani/Shatabdi,ST,NDLS,1
+29076,Karimnagar Mail/Express,Mail/Express,ST,MMCT,3
+12817,Patiala Express,Superfast Express,KOTA,MMCT,2
+5618-F,Container Goods 370,Goods Freight,BRC,ST,5
+8011-F,Container Goods 414,Goods Freight,NDLS,MTJ,5
+12000,Uluberia Mail/Express,Mail/Express,KOTA,ST,3
+18618,Jorhat Mail/Express,Mail/Express,MMCT,KOTA,3
+9120-F,Container Goods 707,Goods Freight,BVI,NDLS,5
+19418,Gandhidham Rajdhani/Shatabdi,Rajdhani/Shatabdi,NDLS,BRC,1
+26522,Parbhani Express,Superfast Express,KOTA,RTM,2
+16460,Solapur Mail/Express,Mail/Express,RTM,MMCT,3
+14263,Panihati Mail/Express,Mail/Express,ST,NDLS,3
+5711-F,Container Goods 990,Goods Freight,BRC,KOTA,5
+18317,Akola Express,Superfast Express,BVI,MMCT,2
+20887,Mau Mail/Express,Mail/Express,NDLS,ST,3
+14231,Yamunanagar Mail/Express,Mail/Express,BVI,RTM,3
+26561,Madurai Mail/Express,Mail/Express,BVI,RTM,3
+24964,Jaipur Express,Superfast Express,NDLS,MMCT,2
+15404,Ulhasnagar Mail/Express,Mail/Express,RTM,KOTA,3
+10194,Haridwar Mail/Express,Mail/Express,BRC,KOTA,3
+5775-F,Container Goods 264,Goods Freight,ST,MTJ,5
+12578,Gandhinagar Rajdhani/Shatabdi,Rajdhani/Shatabdi,ST,KOTA,1
+24959,Belgaum Express,Superfast Express,MMCT,ST,2

@@ -1,0 +1,8 @@
+track_id,start_station,end_station,length_km,max_speed_kmh,is_single_line,track_count
+NDLS-MTJ,NDLS,MTJ,103,120,False,2
+MTJ-KOTA,MTJ,KOTA,172,130,False,2
+KOTA-RTM,KOTA,RTM,241,100,True,1
+RTM-BRC,RTM,BRC,221,120,False,2
+BRC-ST,BRC,ST,229,120,False,2
+ST-BVI,ST,BVI,171,100,False,2
+BVI-MMCT,BVI,MMCT,158,100,False,2

@@ -1,0 +1,9 @@
+station_id,station_name,city,zone,platforms
+NDLS,New Delhi,Delhi,NR,16
+MTJ,Mathura Jn,Mathura,NCR,9
+KOTA,Kota Jn,Kota,WCR,6
+RTM,Ratlam Jn,Ratlam,WR,7
+BRC,Vadodara Jn,Vadodara,WR,7
+ST,Surat,Surat,WR,4
+BVI,Borivali,Mumbai,WR,8
+MMCT,Mumbai Central,Mumbai,WR,5
